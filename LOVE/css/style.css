@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(227, 148, 247);
+    font-family:cursive;
+    
+}
+button{
+    font-family: cursive;
+    border-radius: 5%;
+    height: 35px;
+    margin-top: 25px;
+}
+
+img{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    
+}
+
+section{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: #e1bcff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 450px;
+    align-items: center;
+    justify-content: center;
+}
+
+input{
+    height: 30px;
+    border-radius: 5%;
+    
+}
+button:hover{
+    background-color: rgb(227, 148, 247);
+}
+
+h1{
+
+    font-weight: 100;
+    text-align: center;
+    color: rgb(222, 108, 250);
+}
